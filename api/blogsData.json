@@ -1,4 +1,28 @@
-[
+[   {
+    "id": 1,
+    "title": "Meta debuts generative AI features for advertisers",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/10/meta-gen-ai-ads.jpg?w=430&h=230&crop=1",
+    "category": "AI",
+    "author": "Sarah Perez",
+    "authorPic": "author1.jpg",
+    "published_date": "October 4, 2023",
+    "reading_time": "5 minutes",
+    "content": "Meta announced today it is rolling out its first generative AI features for advertisers, allowing them to use AI to create backgrounds, expand images, and generate multiple versions of ad text...",
+    "tags": ["Blogging", "Writing"]
+    },
+    {
+        "id": 2,
+        "title": "Ask Sophie: What are the options for replacing an L-1A visa?",
+        "image": "https://techcrunch.com/wp-content/uploads/2021/01/dear-sophie-immigration-maze-3.jpg?w=430&h=230&crop=1",
+        "category": "Work",
+        "author": "Sophie Alcorn",
+        "authorPic": "author1.jpg",
+        "published_date": "October 4, 2023",
+        "reading_time": "4 minutes",
+        "content": "It is time for Congress to raise the numerical caps and eliminate the country-of-birth caps!",
+        "tags": ["Work", "Blogging"]
+    }, 
+
     {
         "id": 3,
         "title": "Making wearable medical devices more patient-friendly with Professor Esther Rodriguez-Villegas from Acurable",
@@ -516,7 +540,7 @@
         "tags": ["Startups", "Writing"]
     },
     {
-        "id": 45,
+        "id": 46,
         "title": "Ten Key Labs wants to simplify managing equity for startups",
         "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1359478309.jpg?w=430&h=230&crop=1",
         "category": "Startups",
@@ -528,7 +552,7 @@
         "tags": ["Startups", "Writing"]
     },
     {
-        "id": 46,
+        "id": 47,
         "title": "HCVC is back with a new $75 million deep tech fund",
         "image": "https://techcrunch.com/wp-content/uploads/2023/10/HCVC-team.jpg?w=430&h=230&crop=1",
         "category": "Startups",
@@ -540,7 +564,7 @@
         "tags": ["Startups", "Writing"]
     },
     {
-        "id": 47,
+        "id": 48,
         "title": "Cloaked manages your logins with proxy emails, phone numbers and a built-in password manager",
         "image": "https://techcrunch.com/wp-content/uploads/2023/09/Cloaked-Privacy-2.jpeg?w=430&h=230&crop=1",
         "category": "Apps",
@@ -552,7 +576,7 @@
         "tags": ["Startups", "Writing"]
     },
     {
-        "id": 47,
+        "id": 49,
         "title": "Unitary AI picks up $15M for its multimodal approach to video content moderation",
         "image": "https://techcrunch.com/wp-content/uploads/2023/10/Screenshot-2023-10-03-at-01.44.37.png?w=430&h=230&crop=1",
         "category": "Health",
@@ -564,7 +588,7 @@
         "tags": ["Startups", "Writing"]
     },
     {
-        "id": 47,
+        "id": 50,
         "title": "Tesla Autopilot arbitration win could set legal benchmark in auto industry",
         "image": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1494766819.jpg?w=430&h=230&crop=1",
         "category": "Tech",
@@ -576,7 +600,7 @@
         "tags": ["Startups", "Writing"]
     },
     {
-        "id": 48,
+        "id": 51,
         "title": "Google Pixel Event 2023: Everything you need to know about Pixel 8, Pixel Watch 2, Pixel Buds Pro, Android 14",
         "image": "https://techcrunch.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-04-at-9.06.01-AM.png?w=430&h=230&crop=1",
         "category": "Gadgets",
@@ -588,7 +612,7 @@
         "tags": ["Startups", "Writing"]
     },
     {
-        "id": 49,
+        "id": 52,
         "title": "Pixel Buds Pro update will bring AirPods-like conversation detection and listening stats",
         "image": "https://techcrunch.com/wp-content/uploads/2023/10/Google-Pixel-Buds-Pro-Bay-2.jpg?w=430&h=230&crop=1",
         "category": "Gadgets",
@@ -600,7 +624,7 @@
         "tags": ["Startups", "Writing"]
     },
     {
-        "id": 50,
+        "id": 53,
         "title": "Google Pixel 8 Pro first impressions",
         "image": "https://techcrunch.com/wp-content/uploads/2023/10/Google-Pixel-8-Pro-Bay-04.jpg?w=430&h=230&crop=1",
         "category": "Gadgets",
@@ -612,7 +636,7 @@
         "tags": ["Startups", "Writing"]
     },
     {
-        "id": 51,
+        "id": 54,
         "title": "Google’s Pixel Watch 2 brings new sensors for improved health tracking",
         "image": "https://techcrunch.com/wp-content/uploads/2023/09/Pixel-Watch-2-Lifestyle-Outdoor-Porcelain-Active-Sport1.jpg?w=430&h=230&crop=1",
         "category": "Gadgets",
@@ -624,7 +648,7 @@
         "tags": ["Startups", "Writing"]
     },
     {
-        "id": 52,
+        "id": 55,
         "title": "The Xencelabs Pen Display 24 is a terrific alternative to Wacom’s big-screen drawing tablets",
         "image": "https://techcrunch.com/wp-content/uploads/2023/10/Xencelabs-Pen-Display-24-6.jpg?w=430&h=230&crop=1",
         "category": "Gadgets",
@@ -636,7 +660,7 @@
         "tags": ["Startups", "Writing"]
     },
     {
-        "id": 53,
+        "id": 56,
         "title": "Humane’s ‘Ai Pin’ debuts on the Paris runway",
         "image": "https://techcrunch.com/wp-content/uploads/2023/09/Screenshot-2023-09-30-at-8.14.25%E2%80%AFAM.jpg?w=430&h=230&crop=1",
         "category": "Gadgets",
@@ -648,7 +672,7 @@
         "tags": ["Startups", "Writing"]
     },
     {
-        "id": 54,
+        "id": 57,
         "title": "Fitbit brings Pixel Watch features to the Charge 6",
         "image": "https://techcrunch.com/wp-content/uploads/2023/09/Fitbit-Charge-6-Lifestyle-Pickleball-Stretch-Porcelain.jpeg?w=430&h=230&crop=1",
         "category": "Health",
@@ -660,7 +684,7 @@
         "tags": ["Startups", "Writing"]
     },
     {
-        "id": 55,
+        "id": 58,
         "title": "Meta Quest 3 convinced me to love VR by downplaying the metaverse",
         "image": "https://techcrunch.com/wp-content/uploads/2023/09/Darrell-Meta-Quest-3-e1695838907237.jpg?w=430&h=230&crop=1",
         "category": "Tech",
@@ -672,7 +696,7 @@
         "tags": ["Startups", "Writing"]
     },
     {
-        "id": 56,
+        "id": 59,
         "title": "Ray-Ban’s new Meta smart glasses will be able to translate text",
         "image": "https://techcrunch.com/wp-content/uploads/2023/09/Meta-Ray-Ban-Stories-01.jpg?w=430&h=230&crop=1",
         "category": "Gadgets",
@@ -684,7 +708,7 @@
         "tags": ["Startups", "Writing"]
     },
     {
-        "id": 57,
+        "id": 60,
         "title": "Ray-Ban Meta smart glasses livestream to Instagram and Facebook",
         "image": "https://techcrunch.com/wp-content/uploads/2023/09/Meta_RayBan-Wojack-8674.jpg?w=430&h=230&crop=1",
         "category": "Tech",
@@ -696,7 +720,7 @@
         "tags": ["Startups", "Writing"]
     },
     {
-        "id": 58,
+        "id": 61,
         "title": "Xbox Cloud Gaming is coming to Meta Quest 3 in December",
         "image": "https://techcrunch.com/wp-content/uploads/2023/09/Screenshot-2023-09-27-at-1.40.54%E2%80%AFPM.jpg?w=430&h=230&crop=1",
         "category": "Tech",
@@ -708,7 +732,7 @@
         "tags": ["Startups", "Writing"]
     },
     {
-        "id": 59,
+        "id": 62,
         "title": "Meta debuts generative AI features for advertisers",
         "image": "https://techcrunch.com/wp-content/uploads/2023/10/meta-gen-ai-ads.jpg?w=430&h=230&crop=1",
         "category": "AI",
@@ -720,7 +744,7 @@
         "tags": ["Blogging", "Writing"]
     },
     {
-        "id": 60,
+        "id": 63,
         "title": "Ask Sophie: What are the options for replacing an L-1A visa?",
         "image": "https://techcrunch.com/wp-content/uploads/2021/01/dear-sophie-immigration-maze-3.jpg?w=430&h=230&crop=1",
         "category": "Work",
@@ -732,7 +756,7 @@
         "tags": ["Work", "Blogging"]
     },
     {
-        "id": 61,
+        "id": 64,
         "title": "Making wearable medical devices more patient-friendly with Professor Esther Rodriguez-Villegas from Acurable",
         "image": "https://techcrunch.com/wp-content/uploads/2022/05/found-2022-featured.jpg?w=430&h=230&crop=1",
         "category": "Health",
@@ -744,7 +768,7 @@
         "tags": ["Biotech", "Health"]
     },
     {
-        "id": 62,
+        "id": 65,
         "title": "Rainforest raises $8.5M to help software companies embed financial services, payments",
         "image": "https://techcrunch.com/wp-content/uploads/2015/02/shutterstock_128451140.jpg?w=430&h=230&crop=1",
         "category": "Fintech",
@@ -756,7 +780,7 @@
         "tags": ["Fintech", "Writing"]
     },
     {
-        "id": 63,
+        "id": 66,
         "title": "Pow.bio says biomanufacturing is broken and its continuous fermentation tech will fix it",
         "image": "https://techcrunch.com/wp-content/uploads/2023/10/Pow-Lab2.jpg?w=430&h=230&crop=1",
         "category": "Startups",
@@ -768,7 +792,7 @@
         "tags": ["Startups", "Writing"]
     },
     {
-        "id": 64,
+        "id": 67,
         "title": "Recapitalization, $60M Series D support growth of e-commerce financier Clearco",
         "image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1314165902.jpg?w=430&h=230&crop=1",
         "category": "Fintech",
@@ -780,7 +804,7 @@
         "tags": ["Blogging", "Writing"]
     },
     {
-        "id": 65,
+        "id": 68,
         "title": "Rabbit is building an AI model that understands how software works",
         "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1325174870.jpg?w=430&h=230&crop=1",
         "category": "AI",
@@ -792,7 +816,7 @@
         "tags": ["AI", "Writing"]
     },
     {
-        "id": 66,
+        "id": 69,
         "title": "Okta plans to weave AI across its entire identity platform using multiple models",
         "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1350618660.jpg?w=430&h=230&crop=1",
         "category": "Security",
@@ -804,7 +828,7 @@
         "tags": ["Security", "Writing"]
     },
     {
-        "id": 67,
+        "id": 70,
         "title": "Yubico can now ship pre-registered security keys to its enterprise users",
         "image": "https://techcrunch.com/wp-content/uploads/2023/10/yubikey.jpg?w=430&h=230&crop=1",
         "category": "Enterprise",
@@ -816,7 +840,7 @@
         "tags": ["Blogging", "Writing"]
     },
     {
-        "id": 68,
+        "id": 71,
         "title": "Resy and Eater co-founder raises $24M for Blackbird, a restaurant loyalty platform",
         "image": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1238043769.jpg?w=430&h=230&crop=1",
         "category": "Startups",
@@ -828,7 +852,7 @@
         "tags": ["Startups", "Writing"]
     },
     {
-        "id": 69,
+        "id": 72,
         "title": "TC Startup Battlefield master class with Flourish Ventures: Defining early-stage product-market fit",
         "image": "https://techcrunch.com/wp-content/uploads/2023/10/battlefield-biotics-ai.jpg?w=430&h=230&crop=1",
         "category": "Growth",
@@ -840,7 +864,7 @@
         "tags": ["Growth", "Writing"]
     },
     {
-        "id": 70,
+        "id": 73,
         "title": "Yahoo spins out Vespa, its search tech, into an independent company",
         "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1242149379.jpg?w=430&h=230&crop=1",
         "category": "AI",
@@ -852,7 +876,7 @@
         "tags": ["AI", "Writing"]
     },
     {
-        "id": 71,
+        "id": 74,
         "title": "Okta acquires a16z-backed password manager Uno to develop a personal tier",
         "image": "https://techcrunch.com/wp-content/uploads/2023/03/Uno.jpg?w=430&h=230&crop=1",
         "category": "Apps",
@@ -864,7 +888,7 @@
         "tags": ["Apps", "Writing"]
     },
     {
-        "id": 72,
+        "id": 75,
         "title": "CoPilot, a training app that matches users with remote fitness coaches, raises $6.5M",
         "image": "https://techcrunch.com/wp-content/uploads/2023/10/copilot-screenshots.jpg?w=430&h=230&crop=1",
         "category": "Apps",
@@ -876,7 +900,7 @@
         "tags": ["Apps", "Writing"]
     },
     {
-        "id": 73,
+        "id": 76,
         "title": "Opsera, a DevOps platform geared toward enterprises, raises $12M",
         "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1439425791-1.jpg?w=430&h=230&crop=1",
         "category": "Startups",
@@ -888,7 +912,7 @@
         "tags": ["Apps", "Writing"]
     },
     {
-        "id": 74,
+        "id": 77,
         "title": "EU lawmakers take aim at ‘arbitrary’ decisions by Big Tech in Media Freedom Act vote",
         "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1459166551.jpg?w=430&h=230&crop=1",
         "category": "AI",
@@ -900,7 +924,7 @@
         "tags": ["Apps", "Writing"]
     },
     {
-        "id": 75,
+        "id": 78,
         "title": "Make these 5 changes to avoid becoming the next cybersecurity headline",
         "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1455969376.jpg?w=430&h=230&crop=1",
         "category": "Work",
@@ -912,7 +936,7 @@
         "tags": ["Apps", "Writing"]
     },
     {
-        "id": 76,
+        "id": 79,
         "title": "Make these 5 changes to avoid becoming the next cybersecurity headline",
         "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1455969376.jpg?w=430&h=230&crop=1",
         "category": "Apps",
@@ -924,7 +948,7 @@
         "tags": ["Apps", "Writing"]
     },
     {
-        "id": 77,
+        "id": 80,
         "title": "Open Banking led to a FinTech boom — As Brite raises $60M, account-to-account payment grows",
         "image": "https://techcrunch.com/wp-content/uploads/2023/04/hero-option-2-1.jpg?w=430&h=230&crop=1",
         "category": "Startups",
@@ -936,7 +960,7 @@
         "tags": ["Apps", "Writing"]
     },
     {
-        "id": 78,
+        "id": 81,
         "title": "Krafton India launches gaming incubator to expand local ecosystem",
         "image": "https://techcrunch.com/wp-content/uploads/2023/10/krafton-india-ceo-sean-hyunil-sohn.jpeg?w=430&h=230&crop=1",
         "category": "Startups",
@@ -948,7 +972,7 @@
         "tags": ["Startups", "Writing"]
     },
     {
-        "id": 79,
+        "id": 82,
         "title": "Electric Hydrogen is the green hydrogen industry’s first unicorn",
         "image": "https://techcrunch.com/wp-content/uploads/2023/10/Small-cell-Testing-in-EH2-Natick-Accelerated-Lifetime-Testing-Facility-2.jpg?w=430&h=230&crop=1",
         "category": "Security",
@@ -960,7 +984,7 @@
         "tags": ["Startups", "Writing"]
     },
     {
-        "id": 80,
+        "id": 83,
         "title": "In latest Cruise incident, video shows pedestrian struck by human-driven car, then run over by robotaxi",
         "image": "https://techcrunch.com/wp-content/uploads/2022/10/Cruise_700848.jpg?w=430&h=230&crop=1",
         "category": "Startups",
@@ -971,32 +995,9 @@
         "content": "The San Francisco Police Department is investigating an October 2 incident that left a woman stuck underneath a Cruise robotaxi after being hit by a human-driven vehicle. Video captured by Cruise a...",
         "tags": ["Startups", "Writing"]
     },
+    
     {
-        "id": 1,
-        "title": "Meta debuts generative AI features for advertisers",
-        "image": "https://techcrunch.com/wp-content/uploads/2023/10/meta-gen-ai-ads.jpg?w=430&h=230&crop=1",
-        "category": "AI",
-        "author": "Sarah Perez",
-        "authorPic": "author1.jpg",
-        "published_date": "October 4, 2023",
-        "reading_time": "5 minutes",
-        "content": "Meta announced today it is rolling out its first generative AI features for advertisers, allowing them to use AI to create backgrounds, expand images, and generate multiple versions of ad text...",
-        "tags": ["Blogging", "Writing"]
-    },
-    {
-        "id": 2,
-        "title": "Ask Sophie: What are the options for replacing an L-1A visa?",
-        "image": "https://techcrunch.com/wp-content/uploads/2021/01/dear-sophie-immigration-maze-3.jpg?w=430&h=230&crop=1",
-        "category": "Work",
-        "author": "Sophie Alcorn",
-        "authorPic": "author1.jpg",
-        "published_date": "October 4, 2023",
-        "reading_time": "4 minutes",
-        "content": "It is time for Congress to raise the numerical caps and eliminate the country-of-birth caps!",
-        "tags": ["Work", "Blogging"]
-    },
-    {
-        "id": 81,
+        "id": 84,
         "title": "In latest Cruise incident, video shows pedestrian struck by human-driven car, then run over by robotaxi",
         "image": "https://techcrunch.com/wp-content/uploads/2022/10/Cruise_700848.jpg?w=430&h=230&crop=1",
         "category": "Security",
@@ -1008,7 +1009,7 @@
         "tags": ["Startups", "Writing"]
     },
     {
-        "id": 82,
+        "id": 85,
         "title": "Meta debuts generative AI features for advertisers",
         "image": "https://techcrunch.com/wp-content/uploads/2023/10/meta-gen-ai-ads.jpg?w=430&h=230&crop=1",
         "category": "Security",
@@ -1020,7 +1021,7 @@
         "tags": ["Blogging", "Writing"]
     },
     {
-        "id": 83,
+        "id": 86,
         "title": "Ask Sophie: What are the options for replacing an L-1A visa?",
         "image": "https://techcrunch.com/wp-content/uploads/2021/01/dear-sophie-immigration-maze-3.jpg?w=430&h=230&crop=1",
         "category": "Startups",
